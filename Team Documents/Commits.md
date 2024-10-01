@@ -1,4 +1,4 @@
-﻿# Contributing
+﻿# :seedling:	 Contributing
 
 The following table presents information from the *Conventional commits* documentation: [www.conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
 
