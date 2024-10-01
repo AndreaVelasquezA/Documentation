@@ -8,13 +8,13 @@ The following table presents information from the *Conventional commits* documen
 Commits messages should always be descriptive. Meaning technical descriptions without personal believes or feelings. Commits should always include any of these prefixes:
 
 
-|                Prefix                          |Use case                         |
-|----------------|-------------------------------|-----------------------------|
-|feat|`The commit includes new features to the project.`                     
-|fix          |`The commit include fix for existing bug.`          
-|docs|`The commit includes documentation.`                     
-|style          |`The commit includes changes do not affect the meaning of the code.`          
-|test          |`The commit includes adding missing tests or correcting existing test`          
+| Prefix              |Use case                       
+|---------------------|------------------------------------------------------------------------|
+|feat                 |`The commit includes new features to the project.`                      |   
+|fix                  |`The commit include fix for existing bug.`                              |
+|docs                 |`The commit includes documentation.`                                    | 
+|style                |`The commit includes changes do not affect the meaning of the code.`    |           
+|test                 |`The commit includes adding missing tests or correcting existing test`  |        
 
 Commits should only contain changes related to the prefix used, for example: Never commit  `feat`  files with  `docs`  files.
 
