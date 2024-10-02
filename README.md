@@ -1,4 +1,4 @@
-# Documentation
+# :magic_wand:	Documentation
 
 ## 	:tent:	 [Documento de Bienvenida](Team%20Documents/Bienvenido.md)
 
